@@ -1,0 +1,5 @@
+[workspace]
+members = [
+    "toydb2",
+    "web_server",
+]
